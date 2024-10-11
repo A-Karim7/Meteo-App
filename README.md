@@ -1,19 +1,11 @@
-# meteo_simple
+# Application Météo avec Flutter
 
-A new Flutter project.
+Cette application Flutter permet de consulter la météo d'une ville en utilisant l'API d'OpenWeatherMap.
 
-## Getting Started
+## Prérequis
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- [Flutter](https://flutter.dev/docs/get-started/install) doit être installé sur votre machine.
+- Une clé API d'OpenWeatherMap que vous pouvez obtenir en vous inscrivant sur [https://openweathermap.org/api](https://openweathermap.org/api).
 
 
 https://github.com/user-attachments/assets/57b9743f-14fa-4c54-a3fe-a4ecc8ece43b
